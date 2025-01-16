@@ -1,6 +1,6 @@
 # 💫 About Me:
 I’m a Computer Science student with a deep passion for both hardware and software. Recently, I’ve developed a keen interest in creating TUI (Text User Interface) applications, which has become one of my favorite areas of exploration. My current project involves converting full-featured applications, like Spotify, into streamlined TUI versions.<br><br>While I enjoy building applications, my true passion lies in refining them—making them bug-free, accessible, and user-friendly. This attention to detail extends to my other projects, such as creating a comprehensive tutorial for installing and maintaining Arch Linux. I’ve focused on breaking down each step in detail to help users overcome challenges with confidence.<br><br>I’m always eager to experiment, learn new development techniques, and explore innovative approaches in the world of computer science.
-You can visit my protfolio on this [website](https://moonlight58.netlify.app/)
+You can visit my portfolio on this [website](https://moonlight58.netlify.app/)
 
 
 # 💻 Tech Stack:
