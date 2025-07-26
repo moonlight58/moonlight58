@@ -41,8 +41,8 @@ Always experimenting. Always learning.
 
 <p style="background:black; color:white; border:1px solid white; padding: 10px; font-family:monospace;">
   moonlight@github:~$ ./run_projects.sh<br>
-  Launching <span style="color: #00ff00;">Spotify-TUI</span>...<br>
-  Launching <span style="color: #00ffff;">Arch-Tutorial</span>...
+  Launching <span style="color: #00ff00;">Spotify-TUI...</span><br>
+  Launching <span style="color: #00ffff;">Arch-Tutorial...</span>
 </p>
 
 </div>
