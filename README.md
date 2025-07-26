@@ -55,7 +55,7 @@ Always experimenting. Always learning.
 <p>
   <img src="https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=blue" alt="C"/>
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"/>
-  <img src="https://raw.githubusercontent.com/moonlight58/logo/3a91d9c5cabec7c3c3f50c21f01fc498f95f3344/svg/python.svg?token=ARYO3ETVIXED7RYDJ2UEJCTIQU77K" alt="Python"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/python.svg" alt="Python"/>
   <img src="https://img.shields.io/badge/node.js-000000.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/vue.js-000000.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/quasar-000000.svg?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar"/>
