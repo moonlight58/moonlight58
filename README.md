@@ -39,11 +39,11 @@ Always experimenting. Always learning.
 </a>
 </p>
 
-<pre style="background:black; color:white; padding: 10px; border: 1px solid white; font-family:monospace;">
-moonlight@github:~$ ./run_projects.sh
-Launching <span style="color: #00ff00">Spotify-TUI</span>...
-Launching <span style="color: #00ffff">Arch-Tutorial</span>...
-</pre>
+<p style="background:black; color:white; border:1px solid white; padding: 10px; font-family:monospace;">
+  moonlight@github:~$ ./run_projects.sh<br>
+  Launching <span style="color: #00ff00;">Spotify-TUI</span>...<br>
+  Launching <span style="color: #00ffff;">Arch-Tutorial</span>...
+</p>
 
 </div>
 
@@ -52,17 +52,18 @@ Launching <span style="color: #00ffff">Arch-Tutorial</span>...
 <div align="center" style="background-color:black; color:white; font-family:monospace; border:1px solid white; padding:20px; border-radius:10px;">
   <h3 style="color: white">💻 Tech Stack</h3>
 
-  <p>
-    ![C](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Rust](https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-    ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Vue.js](https://img.shields.io/badge/vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)
-    ![Quasar](https://img.shields.io/badge/quasar-000000?style=for-the-badge&logo=quasar&logoColor=white)
-    ![Capacitor](https://img.shields.io/badge/capacitor-000000?style=for-the-badge&logo=capacitor&logoColor=white)
-    ![Socket.io](https://img.shields.io/badge/socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
-  </p>
+<p>
+  <img src="https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/node.js-000000.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/vue.js-000000.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/quasar-000000.svg?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar"/>
+  <img src="https://img.shields.io/badge/capacitor-000000.svg?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/socket.io-000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
+  <img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
 </div>
 
 <hr style="border: 0.5px solid white; width: 80%; margin: 2rem auto;">
