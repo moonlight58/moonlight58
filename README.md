@@ -53,21 +53,17 @@ Always experimenting. Always learning.
   <h3 style="color: white">💻 Tech Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=blue" alt="C"/>
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/c.svg" alt="C"/>
   <img src="https://github.com/moonlight58/logo/blob/logo/svg/python.svg" alt="Python"/>
-  <img src="https://img.shields.io/badge/node.js-000000.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/vue.js-000000.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/quasar-000000.svg?style=for-the-badge&logo=quasar&logoColor=white" alt="Quasar"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/node.svg" alt="Node.js"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/vue.svg" alt="Vue.js"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/quasar.svg" alt="Quasar"/>
   <img src="https://img.shields.io/badge/capacitor-000000.svg?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
-  <img src="https://img.shields.io/badge/socket.io-000000.svg?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/socket.svg" alt="Socket.io"/>
+  <img src="https://github.com/moonlight58/logo/blob/logo/svg/mysql.svg" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim"/>
-
-
-
 
 </p>
 
