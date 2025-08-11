@@ -74,16 +74,5 @@ Always experimenting. Always learning.
   <h3 style="color: white">📊 GitHub Stats</h3>
 
   <img src="https://github-readme-stats.vercel.app/api?username=moonlight58&theme=dark&hide_border=true&include_all_commits=false&count_private=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moonlight58&theme=dark&hide_border=true" width="45%" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonlight58&theme=dark&hide_border=true&layout=compact" width="60%" />
 </div>
-
-<br/><br/>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=moonlight58&label=Profile%20Views&color=000000&icon=5&pretty=true" />
-  </a>
-</p>
-
-<!-- Proudly hand-refined from GPRM with ♥ -->
