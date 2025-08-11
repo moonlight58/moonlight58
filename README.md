@@ -57,9 +57,9 @@ Always experimenting. Always learning.
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/capacitor-039BE5.svg?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
   <img src="https://img.shields.io/badge/Firebase-F38020?logo=Firebase&logoColor=white" alt="Firebase"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim"/>
