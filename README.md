@@ -30,14 +30,14 @@ Always experimenting. Always learning.
 <div align="center" style="border:1px solid white; padding:20px; border-radius:10px; background-color:black; color:white; font-family:monospace;">
 
 <h3 style="color: white">🚀 Passion Projects</h3>
-<p>
-<a href="https://github.com/moonlight58/Spotify-tui">
-<img alt="TUI Spotify" src="https://img.shields.io/badge/TUI--Spotify-000000?style=for-the-badge&logo=spotify&logoColor=green">
-</a>
-<a href="https://github.com/moonlight58/ArchLinuxTutorial">
-<img alt="Arch Guide" src="https://img.shields.io/badge/Arch--Linux-000000?style=for-the-badge&logo=archlinux&logoColor=cyan">
-</a>
-</p>
+<div>
+  <a href="https://github.com/moonlight58/Spotify-tui">
+    <img alt="TUI Spotify" src="https://img.shields.io/badge/TUI--Spotify-000000?style=for-the-badge&logo=spotify&logoColor=green">
+  </a>
+  <a href="https://github.com/moonlight58/ArchLinuxTutorial">
+    <img alt="Arch Guide" src="https://img.shields.io/badge/Arch--Linux-000000?style=for-the-badge&logo=archlinux&logoColor=cyan">
+  </a>
+</div>
 
 <p style="background:black; color:white; border:1px solid white; padding: 10px; font-family:monospace;">
   moonlight@github:~$ ./run_projects.sh<br>
