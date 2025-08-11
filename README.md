@@ -53,18 +53,17 @@ Always experimenting. Always learning.
   <h3 style="color: white">💻 Tech Stack</h3>
 
 <p>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/c.svg" alt="C"/>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/python.svg" alt="Python"/>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/node.svg" alt="Node.js"/>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/vue.svg" alt="Vue.js"/>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/quasar.svg" alt="Quasar"/>
-  <img src="https://img.shields.io/badge/capacitor-000000.svg?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/socket.svg" alt="Socket.io"/>
-  <img src="https://github.com/moonlight58/logo/blob/logo/svg/mysql.svg" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/capacitor-039BE5.svg?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor"/>
+  <img src="https://img.shields.io/badge/Firebase-F38020?logo=Firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white" alt="Obsidian"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff" alt="Neovim"/>
-
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff" alt="ArchLinux"/>
 </p>
 
 </div>
