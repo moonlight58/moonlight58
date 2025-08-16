@@ -13,8 +13,8 @@
 
 <p style="max-width: 700px; margin: auto;">
 I’m a Computer Science student with a passion for both hardware and software.<br>
-Lately, I’ve been diving into <h3>Text User Interface (TUI)</h3> applications—especially building lightweight alternatives like a terminal-based Spotify client.<br><br>
-Beyond building, I love refining: removing bugs, improving UX, and writing clean guides. I recently wrote a detailed <h3>Arch Linux installation tutorial</h3> to help others navigate the process with confidence.<br><br>
+Lately, I’ve been diving into <strong style="font-size: 4em;">Text User Interface (TUI)</strong> applications—especially building lightweight alternatives like a terminal-based Spotify client.<br><br>
+Beyond building, I love refining: removing bugs, improving UX, and writing clean guides. I recently wrote a detailed <strong style="color: white">Arch Linux installation tutorial</strong> to help others navigate the process with confidence.<br><br>
 Always experimenting. Always learning.
 </p>
 
