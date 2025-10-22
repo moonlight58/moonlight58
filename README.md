@@ -39,12 +39,6 @@ Always experimenting. Always learning.
   </a>
 </div>
 
-<div style="background:black; color:white; border:1px solid white; padding: 10px; font-family:monospace;">
-  <p>moonlight@github:~$ ./run_projects.sh</p>
-  <p>Launching <span style="color: lime;">Spotify-TUI</span>...</p>
-  <p>Launching <span style="color: cyan;">Arch-Tutorial</span>...</p>
-</div>
-
 </div>
 
 <hr style="border: 0.5px solid white; width: 80%; margin: 2rem auto;">
