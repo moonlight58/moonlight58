@@ -31,7 +31,7 @@ Always experimenting. Always learning.
 
 <h3 style="color: white">🚀 Passion Projects</h3>
 <div>
-  <a href="https://github.com/moonlight58/Spotify-tui">
+  <a href="https://github.com/moonlight58/SpotCLI">
     <img alt="TUI Spotify" src="https://img.shields.io/badge/TUI--Spotify-000000?style=for-the-badge&logo=spotify&logoColor=green">
   </a>
   <a href="https://github.com/moonlight58/ArchLinuxTutorial">
