@@ -26,7 +26,7 @@
 
 ---
 
-## `$ internship --list`
+## <div style="color:blue">`$ internship --list`</div>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
