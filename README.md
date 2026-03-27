@@ -9,14 +9,14 @@
 <div align="center">
 
 ```
-╭──────────────────────────────────────────╮
+┌──────────────────────────────────────────┐
 │  surname  │  Gaël                        │
 │  lastname │  Röthlin                     │
 │  age      │  20 years, 5 months          │
 │  lang     │  FRA, ENG, NOR (learning)    │
 │  degree   │  BUT Computer Science        │
 │  status   │  ● Internship @ ANI          │
-╰──────────────────────────────────────────╯
+└──────────────────────────────────────────┘
 ```
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.grothlin.fr-4facfe?style=flat-square&logo=firefox&logoColor=4facfe)](https://portfolio.grothlin.fr/)
@@ -29,7 +29,7 @@
 ## `$ internship --list`
 
 ```
-╭─────────────────────────────────────────────────────────────╮
+┌─────────────────────────────────────────────────────────────┐
 │  ● ANI & Low-Tech                       Jan 2026 → Apr 2026 │
 │    Technical & development internship                       │
 │    › Technical assistance at CROUS BFC                      │
@@ -42,7 +42,7 @@
 │    › Sole developer of a sports equipment                   │
 │      exchange app for STAPS students                        │
 │    stack: Vue.js 3 · Quasar · Node.js · MySQL · Socket.IO   │
-╰─────────────────────────────────────────────────────────────╯
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -60,22 +60,22 @@
 ## `$ fetch --skills`
 
 ```
-╭─── FRONTEND ──────────────────────────────╮
+┌─── FRONTEND ──────────────────────────────┐
 │  Vue.js ████  CSS  ████  Quasar ███       │
 │  BabylonJS ██                             │
-╰───────────────────────────────────────────╯
-╭─── BACKEND ───────────────────────────────╮
+└───────────────────────────────────────────┘
+┌─── BACKEND ───────────────────────────────┐
 │  Python ████  JavaScript ████             │
 │  Node.js ███  C ██  Java ██  PHP ███      │
-╰───────────────────────────────────────────╯
-╭─── DEVOPS ────────────────────────────────╮
+└───────────────────────────────────────────┘
+┌─── DEVOPS ────────────────────────────────┐
 │  Linux ████  Git ████  Bash ███           │
 │  Docker ███  ProxMox ██  Kubernetes ██    │
-╰───────────────────────────────────────────╯
-╭─── TOOLS & DATA ──────────────────────────╮
+└───────────────────────────────────────────┘
+┌─── TOOLS & DATA ──────────────────────────┐
 │  MySQL ████  MongoDB ███  Figma ███       │
 │  Netlify ███  Ollama ██                   │
-╰───────────────────────────────────────────╯
+└───────────────────────────────────────────┘
 ```
 
 ---
