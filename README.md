@@ -29,8 +29,6 @@ moonlight58@github:~$ nitch
 
 </div>
 
----
-
 ## `$ internship --list`
 
 ```
@@ -49,8 +47,6 @@ moonlight58@github:~$ nitch
 │    stack: Vue.js 3 · Quasar · Node.js · MySQL · Socket.IO   │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
 
 ## `$ ls projects/`
 
