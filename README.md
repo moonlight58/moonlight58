@@ -1,3 +1,5 @@
+<div align="left">
+
 ```
 ░░      ░░░       ░░░░░░░░░░░░
 ▒  ▒▒▒▒▒▒▒▒  ▒▒▒▒  ▒▒▒▒▒▒▒▒▒▒▒
@@ -6,9 +8,9 @@
 ██      ███  ████  ██▀▀▀▀▀▀▀▀█
 ```
 
-<div align="center">
-
 ```
+moonlight58@github:~$ nitch
+
 ┌──────────────────────────────────────────┐
 │  surname  │  Gaël                        │
 │  lastname │  Röthlin                     │
@@ -18,15 +20,18 @@
 │  status   │  ● Internship @ ANI          │
 └──────────────────────────────────────────┘
 ```
+</div>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.grothlin.fr-4facfe?style=flat-square&logo=firefox&logoColor=4facfe)](https://portfolio.grothlin.fr/)
-[![GitHub](https://img.shields.io/badge/GITHUB-moonlight58-4facfe?style=flat-square&logo=github&logoColor=white)](https://github.com/moonlight58)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.grothlin.fr-4facfe?logo=firefox&logoColor=4facfe)](https://portfolio.grothlin.fr/)
+[![GitHub](https://img.shields.io/badge/GITHUB-moonlight58-4facfe?logo=github&logoColor=white)](https://github.com/moonlight58)
 
 </div>
 
 ---
 
-## <div style="color:blue">`$ internship --list`</div>
+## `$ internship --list`
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -52,33 +57,27 @@
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 01 | [**Sagittarius**](https://github.com/moonlight58/sagittarius) — Private, model-agnostic AI assistant | `Ollama` `Vue.js` | `In Development` |
-| 02 | [**SpotCLI**](https://github.com/moonlight58/SpotCLI) — Spotify TUI client | `C` `curl` `Spotify API` | `In Development` |
+| 02 | [**SpotCLI**](https://github.com/moonlight58/SpotCLI) — Spotify TUI client | `C` `curl` `Spotify API` | `Stopped` |
 | 03 | [**DotIC**](https://github.com/moonlight58/DotIC) — Dot pattern generator & analyzer | `Python` `NumPy` `OpenCV` | `Completed` |
 
----
 
 ## `$ fetch --skills`
 
 ```
-┌─── FRONTEND ──────────────────────────────┐
-│  Vue.js ████  CSS  ████  Quasar ███       │
-│  BabylonJS ██                             │
-└───────────────────────────────────────────┘
-┌─── BACKEND ───────────────────────────────┐
-│  Python ████  JavaScript ████             │
-│  Node.js ███  C ██  Java ██  PHP ███      │
-└───────────────────────────────────────────┘
-┌─── DEVOPS ────────────────────────────────┐
-│  Linux ████  Git ████  Bash ███           │
-│  Docker ███  ProxMox ██  Kubernetes ██    │
-└───────────────────────────────────────────┘
-┌─── TOOLS & DATA ──────────────────────────┐
-│  MySQL ████  MongoDB ███  Figma ███       │
-│  Netlify ███  Ollama ██                   │
-└───────────────────────────────────────────┘
+┌─────────────────────────────────┐
+│  ● Programming Languages        │
+│    C, Python, JavaScript, Java  │
+├─────────────────────────────────┤
+│  ● Frameworks & Libraries       │
+│    Vue.js, Quasar, Node.js      │
+├─────────────────────────────────┤
+│  ● Tools & Technologies         │
+│    Ollama, Git, Docker, Bash    │
+├─────────────────────────────────┤
+│  ○ Currently Learning           │
+│    Rust, Go, AI/ML concepts     │
+└─────────────────────────────────┘
 ```
-
----
 
 ## `$ cat stats.txt`
 
@@ -92,11 +91,15 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ```
-gael@rothlin:~$ █
+moonlight58@github:~$ _
 ```
+
+</div>
+
+<div align="center">
 
 *Full-stack developer · cybersec enthusiast · open-source lover*
 
