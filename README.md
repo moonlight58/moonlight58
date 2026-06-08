@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ```
 ░░      ░░░       ░░░░░░░░░░░░
@@ -8,82 +8,104 @@
 ██      ███  ████  ██▀▀▀▀▀▀▀▀█
 ```
 
-```
-moonlight58@github:~$ nitch
-
-┌──────────────────────────────────────────┐
-│  surname  │  Gaël                        │
-│  lastname │  Röthlin                     │
-│  age      │  20 years, 5 months          │
-│  lang     │  FRA, ENG, NOR (learning)    │
-│  degree   │  BUT Computer Science        │
-│  status   │  ● Internship @ ANI          │
-└──────────────────────────────────────────┘
-```
 </div>
 
-<div align="center">
+---
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.grothlin.fr-4facfe?logo=firefox&logoColor=4facfe)](https://portfolio.grothlin.fr/)
-[![GitHub](https://img.shields.io/badge/GITHUB-moonlight58-4facfe?logo=github&logoColor=white)](https://github.com/moonlight58)
+```
+moonlight58@github:~$ whoami
+```
 
-</div>
+> Gaël Röthlin — Computer Science student, Besançon, France.
+> Full-stack developer. Open-source enthusiast. Hardware builder.
+> Currently finishing a BUT Informatique at Université de Franche-Comté.
 
-## `$ internship --list`
+---
+
+```
+moonlight58@github:~$ cat status.log
+```
+
+```
+┌──────────────────────────────────────────────────────────┐
+│  ROLE      │  BUT Informatique · 3ème année              │
+│  LOCATION  │  Besançon, France                          │
+│  STATUS    │  ● Internship @ ANI & Low-Tech — completed  │
+│            │    Jan 2026 → Apr 2026                      │
+│  FOCUS     │  Full-stack · Embedded systems · Local AI   │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
+moonlight58@github:~$ ls projects/ --sort=recent
+```
+
+| №  | Project | Description | Stack | Status |
+|----|---------|-------------|-------|--------|
+| 01 | [**Sagittarius**](https://github.com/moonlight58/sagittarius) | Private, model-agnostic AI assistant. Run your own models. Own your context. | `Vue 3` `Ollama` `CSS` | `In Development` |
+| 02 | [**Pluto**](https://portfolio.grothlin.fr/pluto) | Split ergonomic mechanical keyboard — designed and built from scratch. PCB, firmware, 3D-printed PETG case. | `KiCAD` `Ergogen` `ZMK` `FreeCAD` | `Completed` |
+| 03 | [**spotCLI**](https://github.com/moonlight58/SpotCLI) | Spotify CLI client in C — 38 commands, OAuth 2.0, custom TCP callback server. | `C` `libcurl` `OAuth 2.0` | `Archived` |
+| 04 | [**Open3D-Viewer**](https://github.com/moonlight58/open3D-viewer) | WebXR 3D model viewer. GLB, PLY, OBJ. Built for geology researchers and VR immersion rooms. | `BabylonJS` `WebXR` | `Active` |
+
+---
+
+```
+moonlight58@github:~$ cat internships.log
+```
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ● ANI & Low-Tech                       Jan 2026 → Apr 2026 │
-│    Technical & development internship                       │
-│    › Technical assistance at CROUS BFC                      │
-│    › Integration into ANI & Low-Tech service                │
-│    › Development of a local AI solution                     │
-│    › FabLab accessibility improvements                      │
-├─────────────────────────────────────────────────────────────┤
-│  ○ Euphron (Learning Centre Claude Oytana)   Apr → May 2025 │
-│    Full-stack web internship                                │
-│    › Sole developer of a sports equipment                   │
-│      exchange app for STAPS students                        │
+│  ● ANI & Low-Tech · CROUS BFC            Jan → Apr 2026     │
+│    Technical & Development Internship                       │
+│                                                             │
+│    › Open3D-Viewer — WebXR 3D viewer for VR immersion room  │
+│    › IA Annie — local AI assistant (Ollama, Docker, K8s)    │
+│    › UTBM Crunch Time — project lead, co-design event       │
+│                                                             │
+│  ○ Euphron · Learning Centre Claude Oytana  Apr → May 2025  │
+│    Full-Stack Web Internship                                │
+│                                                             │
+│    › Solo full-stack developer, 8 weeks, end-to-end         │
+│    › Sports equipment exchange app for STAPS students       │
 │    stack: Vue.js 3 · Quasar · Node.js · MySQL · Socket.IO   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## `$ ls projects/`
-
-| # | Project | Stack | Status |
-|---|---------|-------|--------|
-| 01 | [**Sagittarius**](https://github.com/moonlight58/sagittarius) — Private, model-agnostic AI assistant | `Ollama` `Vue.js` | `In Development` |
-| 02 | [**SpotCLI**](https://github.com/moonlight58/SpotCLI) — Spotify TUI client | `C` `curl` `Spotify API` | `Stopped` |
-| 03 | [**DotIC**](https://github.com/moonlight58/DotIC) — Dot pattern generator & analyzer | `Python` `NumPy` `OpenCV` | `Completed` |
-
-
-## `$ fetch --skills`
+---
 
 ```
-┌─────────────────────────────────┐
-│  ● Programming Languages        │
-│    C, Python, JavaScript, Java  │
-├─────────────────────────────────┤
-│  ● Frameworks & Libraries       │
-│    Vue.js, Quasar, Node.js      │
-├─────────────────────────────────┤
-│  ● Tools & Technologies         │
-│    Ollama, Git, Docker, Bash    │
-├─────────────────────────────────┤
-│  ○ Currently Learning           │
-│    Rust, Go, AI/ML concepts     │
-└─────────────────────────────────┘
+moonlight58@github:~$ fetch --skills
 ```
 
-## `$ cat stats.txt`
+```
+ Frontend     │  Vue.js  CSS  Quasar  BabylonJS
+ Backend      │  Python  Node.js  C  JavaScript  Java  PHP
+ DevOps       │  Linux  Git  Docker  Bash  Kubernetes
+ Tools        │  MySQL  MongoDB  Figma  Netlify
+ Hardware     │  KiCAD  Ergogen  FreeCAD  ZMK  FDM Printing
+ Learning     │  Rust  Go  AI/ML
+```
 
-<div align="center">
+---
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=moonlight58&show_icons=true&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=moonlight58&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moonlight58&layout=compact&theme=gruvbox)
+```
+moonlight58@github:~$ cat philosophy.txt
+```
 
-</div>
+> Hardware does not forgive much. Unlike software, you cannot undo a bad solder joint.
+> Every decision ends up somewhere on the table.
+> That is also what makes the result satisfying: it exists, it works, and I use it every day.
+
+---
+
+```
+moonlight58@github:~$ open --links
+```
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-portfolio.grothlin.fr-c2693a?style=flat-square&labelColor=1c1917)](https://portfolio.grothlin.fr/)
+[![GitHub](https://img.shields.io/badge/GITHUB-moonlight58-44403c?style=flat-square&labelColor=1c1917)](https://github.com/moonlight58)
 
 ---
 
@@ -92,11 +114,5 @@ moonlight58@github:~$ nitch
 ```
 moonlight58@github:~$ _
 ```
-
-</div>
-
-<div align="center">
-
-*Full-stack developer · cybersec enthusiast · open-source lover*
 
 </div>
