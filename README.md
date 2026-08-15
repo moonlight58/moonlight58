@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="signalis-dark.svg">
-  <img alt="A rotating dithered moon" src="signalis-white.svg" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="signalis-white.svg">
+  <img alt="A rotating dithered moon" src="signalis-dark.svg" width="340">
 </picture>
 
 <br>
