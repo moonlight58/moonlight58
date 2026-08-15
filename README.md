@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="signalis-dark.svg">
-  <img alt="A rotating dithered moon" src="signalis-light.svg" width="340">
+  <img alt="A rotating dithered moon" src="signalis-white.svg" width="340">
 </picture>
 
 <br>
