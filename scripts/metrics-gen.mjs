@@ -138,6 +138,6 @@ ${parts.join('\n')}
 }
 
 const v = fetchData();
-fs.writeFileSync('metrics-light.svg', render(v, '12191f'));
-fs.writeFileSync('metrics-dark.svg', render(v, 'e6edf3'));
+fs.writeFileSync('metrics-light.svg', render(v, '1b1c1d'));
+fs.writeFileSync('metrics-dark.svg', render(v, 'e2201f'));
 console.log(`metrics generated for ${v.login}: ${v.contributionsCollection.contributionCalendar.totalContributions} contributions`);
