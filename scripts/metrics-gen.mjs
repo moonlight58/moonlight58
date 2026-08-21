@@ -55,6 +55,8 @@ function fetchData() {
   return json.data.viewer;
 }
 
+const ACCENT = '#E2201F';
+
 function render(v, inkHex) {
   const ink = '#' + inkHex;
   const cal = v.contributionsCollection.contributionCalendar;
@@ -95,7 +97,7 @@ function render(v, inkHex) {
     for (const d of weeks[wi].contributionDays) {
       const cx = hmX + wi * (CELL + GAP);
       const cy = hmTop + d.weekday * (CELL + GAP);
-      parts.push(`<rect x="${cx.toFixed(1)}" y="${cy}" width="${CELL}" height="${CELL}" rx="1.4" fill="${ink}" fill-opacity="${op[level(d.contributionCount)]}"/>`);
+      parts.push(`<rect x="${cx.toFixed(1)}" y="${cy}" width="${CELL}" height="${CELL}" rx="1.4" fill="${ACCENT}" fill-opacity="${op[level(d.contributionCount)]}"/>`);
     }
   }
   y = hmTop + 7 * (CELL + GAP) + 14;
@@ -107,10 +109,10 @@ function render(v, inkHex) {
   const barW = W - 2 * PAD - 80, barX = (W - barW) / 2, barH = 7;
   let bx = barX;
   const segOp = [1.0, 0.74, 0.52, 0.34, 0.2];
-  parts.push(`<rect x="${barX}" y="${y}" width="${barW}" height="${barH}" rx="3.5" fill="${ink}" fill-opacity="0.07"/>`);
+  parts.push(`<rect x="${barX}" y="${y}" width="${barW}" height="${barH}" rx="3.5" fill="${ACCENT}" fill-opacity="0.12"/>`);
   langs.forEach((l, i) => {
     const w = barW * l.pct;
-    parts.push(`<rect x="${bx.toFixed(1)}" y="${y}" width="${Math.max(0, w - 1).toFixed(1)}" height="${barH}" rx="3.5" fill="${ink}" fill-opacity="${segOp[i]}"/>`);
+    parts.push(`<rect x="${bx.toFixed(1)}" y="${y}" width="${Math.max(0, w - 1).toFixed(1)}" height="${barH}" rx="3.5" fill="${ACCENT}" fill-opacity="${segOp[i]}"/>`);
     bx += w;
   });
   y += barH + 16;
@@ -139,5 +141,5 @@ ${parts.join('\n')}
 
 const v = fetchData();
 fs.writeFileSync('metrics-light.svg', render(v, '1b1c1d'));
-fs.writeFileSync('metrics-dark.svg', render(v, 'e2201f'));
+fs.writeFileSync('metrics-dark.svg', render(v, 'ffffff'));
 console.log(`metrics generated for ${v.login}: ${v.contributionsCollection.contributionCalendar.totalContributions} contributions`);
