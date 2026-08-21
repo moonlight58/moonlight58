@@ -22,9 +22,4 @@ I write bugs and then fix them
   <source media="(prefers-color-scheme: dark)" srcset="metrics-dark.svg">
   <img alt="GitHub metrics — contributions, languages, stats" src="metrics-light.svg" width="520">
 </picture>
-
-<br>
-
-<sub>3D model — [Moon](https://sketchfab.com/3d-models/moon-e6d36bb905ed42049a234e7be571d8a3) made by [Nestaeric](https://sketchfab.com/Nestaeric)</sub>
-
 </div>
