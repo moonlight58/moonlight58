@@ -13,7 +13,7 @@ I write bugs and then fix them
 
 <br>
 
-[Website](https://portfolio.grothlin.fr)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:gael.rothlin@proton.me)
+[Portfolio](https://portfolio.grothlin.fr)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:gael.rothlin@proton.me)
 
 <br>
 <br>
