@@ -366,6 +366,7 @@
 <rect x="481.5" y="90" width="7" height="7" rx="1.4" fill="#E2201F" fill-opacity="0.28"/>
 <rect x="490.5" y="36" width="7" height="7" rx="1.4" fill="#E2201F" fill-opacity="0.28"/>
 <rect x="490.5" y="45" width="7" height="7" rx="1.4" fill="#E2201F" fill-opacity="0.28"/>
+<rect x="490.5" y="54" width="7" height="7" rx="1.4" fill="#E2201F" fill-opacity="0.08"/>
 <text x="260" y="113" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="11" font-weight="600" letter-spacing="0.02em" fill="#ffffff" fill-opacity="0.85">590 contributions in the last year</text>
 <line x1="56" y1="129" x2="464" y2="129" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1"/>
 <text x="260" y="151" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="600" letter-spacing="0.22em" fill="#ffffff" fill-opacity="0.45">LANGUAGES</text>
@@ -381,6 +382,6 @@
 <text x="97.33333333333333" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#ffffff" fill-opacity="0.5">repos</text>
 <text x="260" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#ffffff" fill-opacity="0.95">13</text>
 <text x="260" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#ffffff" fill-opacity="0.5">longest streak</text>
-<text x="422.66666666666663" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#ffffff" fill-opacity="0.95">13</text>
+<text x="422.66666666666663" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#ffffff" fill-opacity="0.95">0</text>
 <text x="422.66666666666663" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#ffffff" fill-opacity="0.5">current streak</text>
 </svg>
