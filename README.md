@@ -9,7 +9,7 @@
 
 # Moonlight58
 
-I write bugs, then fix them
+I write bugs, wonder why it works
 
 <br>
 
