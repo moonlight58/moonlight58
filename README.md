@@ -16,7 +16,6 @@ I write bugs, wonder why it works
 [Portfolio](https://portfolio.grothlin.fr)&nbsp;&nbsp;·&nbsp;&nbsp;[Email](mailto:gael.rothlin@proton.me)
 
 <br>
-<!-- Urgent -->
 <br>
 
 <picture>
